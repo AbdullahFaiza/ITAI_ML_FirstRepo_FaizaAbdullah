@@ -30,21 +30,6 @@ We followed **Lab 6 guidelines** and implemented end-to-end preprocessing techni
 
 ---
 
-## **Project Structure**  
-
-MIDTERM_ROAD_CASUALTY_SEVERITY_PREDICTION/
-├── FLAM_MIDTERM_NOTEBOOK.ipynb          # Main Jupyter notebook with all steps
-
-├── FLAM_MIDTERM_NOTEBOOK.pdf            # PDF export of notebook
-
-├── FLAM-MIDTERM DETAILED PROPOSAL.pdf   # Detailed project report
--├── Midterm_FLAM_Proposal-1.pdf          # Initial proposal
--├── data/                                # Folder for dataset (add CSV here)
--├── cleaned_road_casualty_flame.csv      # Output cleaned dataset (generated)
--├── requirements.txt                     # Dependencies
--└── README.md                            # This file
-
-
 ## **Team Members**  
 - **Faiza Abdullah**  
 - **Lufei Yu**  
